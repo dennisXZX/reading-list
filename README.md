@@ -52,7 +52,8 @@ Or you can shoot me emails @ dennisboys@gmail.com.
     (
      [To-do app v1.0](https://github.com/dennisboys/node-to-do-app-cumbersome-v1.0) | 
      [To-do app v2.0](https://github.com/dennisboys/node-to-do-app-v2.0) | 
-     [Registration app](https://github.com/dennisboys/registration-app) | 
+     [Registration app](https://github.com/dennisboys/registration-app)
     )
+    - [ ] [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
     - [ ] [Learn NodeJS Building 10 Projects](https://www.youtube.com/playlist?list=PLO-hrPk0zuI18xlF_480s6UiaGD7hBqJa)
     - [ ] [NodeJS Tutorial by Brent Aureli](https://www.youtube.com/playlist?list=PLZm85UZQLd2Q946FgnllFFMa0mfQLrYDL)
