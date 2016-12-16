@@ -2,17 +2,17 @@
 
 Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), this is my eight-month study plan for building towards my goal of becoming a web developer.
 
+## Pull Request Is Warmly Welcomed
+
+Please don't hesitate to recommend any resources you think are helpful.
+
 ## Let's Do It Together
 
 Peer learning is always better than learning alone.
 
-I mostly code in Sydney, so feel free to come along for a coding ride.
+I mostly code in Sydney, so feel free to come along for a coding ride if you are around. (all levels are welcome!)
 
-Or you can shoot me emails @ dennisboys@gmail.com
-
-## Pull Request Is Warmly Welcomed
-
-Please don't hesitate to recommend any resources you think are helpful.
+Or you can shoot me emails @ dennisboys@gmail.com.
 
 ## Table of Contents
 
