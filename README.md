@@ -1,10 +1,10 @@
 # I Want To Be A Web Developer
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), this is my eight-month study plan for building towards my goal of becoming a web developer.
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), this list is my personal eight-month study plan for building towards my goal of becoming a web developer. 
 
 ## Pull Request Is Warmly Welcomed
 
-Please don't hesitate to recommend any resources you think are helpful.
+Please don't hesitate to recommend any resources you think are helpful. Thank you!
 
 ## Let's Do It Together
 
@@ -24,7 +24,7 @@ Or you can shoot me emails @ dennisboys@gmail.com.
 - [Javascript Framework](#javascript-framework)
   - [Vue.js](#vue.js)
 - [Node.js](#nodejs)  
-  - [Fundamentals](#fundamentals)
+  - [Fundamentals](#nodejsfundamentals)
   - [Express](#express)    
 - [Testing](#testing)
   - [Moncha](#moncha)
@@ -43,3 +43,7 @@ Or you can shoot me emails @ dennisboys@gmail.com.
     - [ ] [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
   
 ## Node.js
+  - <a name="nodejsfundamentals">Fundamentals</a>
+    - [x] [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+    - [ ] [Learn NodeJS Building 10 Projects](https://www.youtube.com/playlist?list=PLO-hrPk0zuI18xlF_480s6UiaGD7hBqJa)
+    - [ ] [NodeJS Tutorial by Brent Aureli](https://www.youtube.com/playlist?list=PLZm85UZQLd2Q946FgnllFFMa0mfQLrYDL)
