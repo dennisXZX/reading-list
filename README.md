@@ -34,8 +34,8 @@ Or you can shoot me emails @ dennisboys@gmail.com.
 ## Javascript  
   - <a name="jsfundamentals">Fundamentals</a>
     - [ ] [Eloquent Javascript](https://www.amazon.com.au/d/ebook/Eloquent-JavaScript-Modern-Introduction-Programming-Marijn-Haverbeke/B00QL616UU/ref=sr_1_1?ie=UTF8&qid=1481852620&sr=8-1&keywords=eloquent+javascript)
+    - [x] [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
   - Intermediate and Advanced:
-    - [ ] [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
     - [ ] [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
     - [ ] [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
     - [ ] [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
