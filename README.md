@@ -1,6 +1,6 @@
-# I Want To Be A Web Developer
+# The 10,000 Hour Game
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), this list is my personal study plan for building towards my goal of becoming a web developer. 
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), this list is my personal study plan for making myself a better web developer. 
 
 ## Pull Request Is Warmly Welcomed
 
