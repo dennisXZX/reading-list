@@ -20,8 +20,8 @@ Or you can shoot me emails @ dennisboys@gmail.com.
 - [CSS](#css)
   - [CSS Preprocessor](#css-preprocessor)
 - [Javascript](#javascript)
-  - [Fundamental Knowledge](#fundamental-knowledge)
-  - [Intermediate and Advanced Knowledge](#intermediate-and-advanced-knowledge)
+  - [Fundamental](#fundamental)
+  - [Intermediate and Advanced](#intermediate-and-advanced)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
     - [Vue.js](#vue.js)
@@ -34,10 +34,11 @@ Or you can shoot me emails @ dennisboys@gmail.com.
   - [MongoDB](#mongodb)
     
 ## Javascript  
-  - <a name="jsfundamentals">Fundamental Knowledge</a>
+  - <a name="jsfundamentals">Fundamental</a>
     - [ ] [Eloquent Javascript](https://www.amazon.com.au/d/ebook/Eloquent-JavaScript-Modern-Introduction-Programming-Marijn-Haverbeke/B00QL616UU/ref=sr_1_1?ie=UTF8&qid=1481852620&sr=8-1&keywords=eloquent+javascript)
-    - [x] [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-  - <a name="jsfundamentals">Intermediate and Advanced Knowledge</a>
+    - [x] [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+    - [ ] [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+  - <a name="jsfundamentals">Intermediate and Advanced</a>
     - [ ] [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
     - [ ] [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
     - [ ] [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
