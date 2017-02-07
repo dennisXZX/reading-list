@@ -1,18 +1,10 @@
 # The 10,000 Books
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), this list is my personal study plan for making myself a better web developer. 
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), I would like to challenge myself to read 10,000 books in the rest of my life. 
 
-## Pull Request Is Warmly Welcomed
+## Recommendation Is Warmly Welcomed
 
-Please don't hesitate to recommend any resources you think are helpful. Thank you!
-
-## Let's Do It Together
-
-Peer learning is always better than learning alone.
-
-I mostly code in Sydney, so feel free to come along for a coding ride if you are around. (all levels are welcome!)
-
-Or you can shoot me emails @ dennisboys@gmail.com.
+Please don't hesitate to recommend any books you think are helpful. Thank you!
 
 ## Table of Contents
 
@@ -32,6 +24,6 @@ Or you can shoot me emails @ dennisboys@gmail.com.
 ## Science
 
 ## Technology
-- [x] Zero to One: Notes on Startups, or How to Build the Future
+1. Zero to One: Notes on Startups, or How to Build the Future, by Peter Thiel
 
 ## Misc.
