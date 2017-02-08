@@ -1,10 +1,10 @@
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), I would like to challenge myself to read as many books as possible in the rest of my life. 
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), I would like to challenge myself to make reading books part of my hobbies. 
 
 ## Recommendation Is Warmly Welcomed
 
 Please don't hesitate to recommend any books you think are worthy of a read. Thank you!
 
-(Note: :white_check_mark: indicates completedt)
+(Note: :white_check_mark: indicates a completed book)
 
 ## Table of Contents
 
