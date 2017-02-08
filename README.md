@@ -4,26 +4,29 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 Please don't hesitate to recommend any books you think are worthy of a read. Thank you!
 
+(Note: :white_check_mark: indicates completedt)
+
 ## Table of Contents
 
-- [Literature](#literature)
 - [Biography](#biography)
+- [Fiction](#fiction)
 - [History](#history)
-- [Science](#science)
+- [Literature](#literature)
 - [Technology](#technology)
-- [Misc.](#misc)
-    
-## Literature
+- [Science](#science)
 
 ## Biography
+1. :white_check_mark: 李光耀观天下, 2015
 
+## Fiction
+    
 ## History
 
-## Science
- - [x] 1. [Yes! 50 Scientifically Proven Ways to Be Persuasive](https://www.amazon.com/Yes-Scientifically-Proven-Ways-Persuasive/dp/1416576142/ref=sr_1_1?ie=UTF8&qid=1486479463&sr=8-1&keywords=yes+50+scientifically+proven+ways+to+be+persuasive), 2009
+## Literature
 
 ## Technology
- - [x] 1. [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=Zero+to+One%3A+Notes+on+Startups%2C+or+How+to+Build+the+Future&sprefix=zero+to+one%2Caps%2C374), 2014
- - [ ] 1. [未来世界的幸存者](https://ruanyf.github.io/survivor/index.html), 2017
+1. Zero to One: Notes on Startups, or How to Build the Future, 2014
+1. [未来世界的幸存者](https://ruanyf.github.io/survivor/index.html), 2017
 
-## Misc.
+## Science
+1. Yes! 50 Scientifically Proven Ways to Be Persuasive, 2009
