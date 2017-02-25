@@ -21,6 +21,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 ## Fiction
     
 ## History
+1. Homo Deus：A Brief History of Tomorrow， 2017
 
 ## Literature
 
