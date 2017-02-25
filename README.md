@@ -26,7 +26,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
-1. [未来世界的幸存者](https://ruanyf.github.io/survivor/index.html), 2017
+1. :white_check_mark: 未来世界的幸存者, 2017
 
 ## Science
 1. Yes! 50 Scientifically Proven Ways to Be Persuasive, 2009
