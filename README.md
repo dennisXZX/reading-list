@@ -30,6 +30,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. :white_check_mark: 未来世界的幸存者, 2017
 1. JavaScript Enlightenment: From Library User to JavaScript Developer, 2013
 1. DOM Enlightenment: Exploring JavaScript and the Modern DOM, 2013
+1. JavaScript: The Good Parts, 2008
 
 ## Science
 1. Yes! 50 Scientifically Proven Ways to Be Persuasive, 2009
