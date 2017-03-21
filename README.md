@@ -29,6 +29,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. Professional JavaScript for Web Developers, 2012
 1. :white_check_mark: JavaScript Enlightenment: From Library User to JavaScript Developer, 2013
 1. DOM Enlightenment: Exploring JavaScript and the Modern DOM, 2013
+1. Javascript: The Definitive Guide, 2011
 1. JavaScript: The Good Parts, 2008
 
 ## Technology
