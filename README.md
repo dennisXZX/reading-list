@@ -14,6 +14,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 - [Literature](#literature)
 - [Technology](#technology)
 - [Science](#science)
+- [Sociology](#sociology)
 
 ## Biography
 1. :white_check_mark: 李光耀观天下, 2015
@@ -38,3 +39,6 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 
 ## Science
 1. Yes! 50 Scientifically Proven Ways to Be Persuasive, 2009
+
+## Sociology
+1. 巨婴国, 2016
