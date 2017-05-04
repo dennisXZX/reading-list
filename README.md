@@ -33,6 +33,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. Javascript: The Definitive Guide, 2011
 1. JavaScript: The Good Parts, 2008
 1. :white_check_mark: You Don't Know JS: Up & Going, 2015
+1. :white_check_mark: You Don't Know JS: Scope & Closures, 2015
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
