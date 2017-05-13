@@ -35,6 +35,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. :white_check_mark: You Don't Know JS: Up & Going, 2015
 1. :white_check_mark: You Don't Know JS: Scope & Closures, 2015
 1. You Don't Know JS: this & Object Prototypes, 2015
+1. Learning React, 2016
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
