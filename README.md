@@ -27,9 +27,8 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 ## Literature
 
 ## Programming
-1. Professional JavaScript for Web Developers, 2012
+1. :white_check_mark: Professional JavaScript for Web Developers, 2012
 1. :white_check_mark: JavaScript Enlightenment: From Library User to JavaScript Developer, 2013
-1. DOM Enlightenment: Exploring JavaScript and the Modern DOM, 2013
 1. Javascript: The Definitive Guide, 2011
 1. JavaScript: The Good Parts, 2008
 1. :white_check_mark: You Don't Know JS: Up & Going, 2015
@@ -37,6 +36,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. You Don't Know JS: this & Object Prototypes, 2015
 1. :white_check_mark: Learning React, 2016
 1. Learning React: Functional Web Development with React and Redux, 2017
+1. Secrets of Javascript Ninja, 2nd Edition, 2016
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
