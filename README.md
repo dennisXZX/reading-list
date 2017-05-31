@@ -37,6 +37,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. :white_check_mark: Learning React, 2016
 1. Learning React: Functional Web Development with React and Redux, 2017
 1. Secrets of Javascript Ninja, 2nd Edition, 2016
+1. 深入浅出React和Redux, 2017
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
