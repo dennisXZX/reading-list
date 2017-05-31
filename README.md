@@ -1,4 +1,4 @@
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), I would like to challenge myself to make reading books part of my hobbies. 
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university/blob/master/README.md), I would like to challenge myself to make reading part of my hobbies. 
 
 ## Recommendation Is Warmly Welcomed
 
@@ -9,6 +9,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 ## Table of Contents
 
 - [Biography](#biography)
+- [Computer Science](#Computer)
 - [Fiction](#fiction)
 - [History](#history)
 - [Literature](#literature)
@@ -26,7 +27,8 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 
 ## Literature
 
-## Programming
+## Computer Science
+### Language
 1. :white_check_mark: Professional JavaScript for Web Developers, 2012
 1. :white_check_mark: JavaScript Enlightenment: From Library User to JavaScript Developer, 2013
 1. Javascript: The Definitive Guide, 2011
@@ -34,9 +36,10 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 1. :white_check_mark: You Don't Know JS: Up & Going, 2015
 1. :white_check_mark: You Don't Know JS: Scope & Closures, 2015
 1. You Don't Know JS: this & Object Prototypes, 2015
+1. Secrets of Javascript Ninja, 2nd Edition, 2016
+### Framework
 1. :white_check_mark: Learning React, 2016
 1. Learning React: Functional Web Development with React and Redux, 2017
-1. Secrets of Javascript Ninja, 2nd Edition, 2016
 1. 深入浅出React和Redux, 2017
 
 ## Technology
