@@ -9,7 +9,7 @@ Please don't hesitate to recommend any books you think are worthy of a read. Tha
 ## Table of Contents
 
 - [Biography](#biography)
-- [Computer Science](#Computer)
+- [Computer Science](#computer-science)
 - [Fiction](#fiction)
 - [History](#history)
 - [Literature](#literature)
