@@ -24,7 +24,9 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 ## Literature
 
 ## Computer Science
-### Language
+#### CSS
+1. CSS Secrets: Better Solutions to Everyday Web Design Problems, 2015
+#### Javascript
 1. :white_check_mark: Professional JavaScript for Web Developers, 2012
 1. :white_check_mark: JavaScript Enlightenment: From Library User to JavaScript Developer, 2013
 1. Javascript: The Definitive Guide, 2011
