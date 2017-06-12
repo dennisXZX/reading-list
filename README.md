@@ -39,6 +39,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: Learning React, 2016
 1. Learning React: Functional Web Development with React and Redux, 2017
 1. 深入浅出React和Redux, 2017
+### SPA
+1. SPA Design and Architecture: Understanding Single Page Web Applications, 2015
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
