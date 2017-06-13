@@ -41,6 +41,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 深入浅出React和Redux, 2017
 ### SPA
 1. SPA Design and Architecture: Understanding Single Page Web Applications, 2015
+2. Single Page Web Applications: JavaScript end-to-end, 2013
 
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future, 2014
