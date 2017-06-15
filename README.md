@@ -35,6 +35,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: You Don't Know JS: Scope & Closures, 2015
 1. You Don't Know JS: this & Object Prototypes, 2015
 1. Secrets of Javascript Ninja, 2nd Edition, 2016
+1. Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide, 2012
 ### Framework
 1. :white_check_mark: Learning React, 2016
 1. Learning React: Functional Web Development with React and Redux, 2017
