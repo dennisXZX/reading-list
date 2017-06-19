@@ -17,7 +17,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 李光耀观天下 - 李光耀, 2015
 
 ## Fiction
-1. 恶意, 东野圭吾, 2009
+1. 恶意 - 东野圭吾, 2009
     
 ## History
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari, 2017
