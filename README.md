@@ -38,7 +38,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. You Don't Know JS: this & Object Prototypes - Kyle Simpson, 2015
 1. Secrets of Javascript Ninja, 2nd Edition - Bear Bibeault and John Resig, 2016
 1. Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide - Addy Osmani, 2012
-JavaScript Patterns: Build Better Applications with Coding and Design Patterns - Stoyan Stefanov, 2010
+1. JavaScript Patterns: Build Better Applications with Coding and Design Patterns - Stoyan Stefanov, 2010
 ### Framework
 1. :white_check_mark: Learning React - Kirupa Chinnathambi, 2016
 1. Learning React: Functional Web Development with React and Redux - Alex Banks and Eve Porcello, 2017
