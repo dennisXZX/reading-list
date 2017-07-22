@@ -50,6 +50,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 ## Technology
 1. Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel and Blake Masters, 2014
 1. :white_check_mark: 未来世界的幸存者 - 阮一峰, 2017
+1. 腾讯传 - 吴晓波, 2017
+1. 沸腾十五年 - 林军, 2009
 
 ## Science
 1. Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin, 2009
