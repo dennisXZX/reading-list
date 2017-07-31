@@ -53,6 +53,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 腾讯传 - 吴晓波, 2017
 1. 沸腾十五年 - 林军, 2009
 1. 精益创业 - 埃里克·莱斯, 2012
+1. Code Complete: A Practical Handbook of Software Construction, Second Edition, 2004
 
 ## Science
 1. Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin, 2009
