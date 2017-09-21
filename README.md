@@ -44,6 +44,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. Learning React: Functional Web Development with React and Redux - Alex Banks and Eve Porcello, 2017
 1. 深入浅出React和Redux - 程墨, 2017
 1. Angular 4: From Theory To Practice: Build the web applications of tomorrow using the new Angular web framework from Google - Asim Hussain, 2017
+1. ng-book: The Complete Guide to Angular 4 - Carlos Taborda and Nathan Murray, 2017
 ### SPA
 1. SPA Design and Architecture: Understanding Single Page Web Applications - Emmit Scott, 2015
 2. Single Page Web Applications: JavaScript end-to-end - Michael Mikowski and Josh Powell, 2013
