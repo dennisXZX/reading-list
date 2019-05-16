@@ -9,7 +9,6 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 - [History](#history)
 - [Literature](#literature)
 - [Science](#science)
-- [Sociology](#sociology)
 - [Technology](#technology)
 
 ## Biography
@@ -26,8 +25,6 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Science
 1. Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin, 2009
-
-## Sociology
 1. 巨婴国 - 武志红, 2016
 
 ## Technology
