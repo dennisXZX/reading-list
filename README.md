@@ -5,13 +5,12 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 ## Table of Contents
 
 - [Biography](#biography)
-- [Computer Science](#computer-science)
 - [Fiction](#fiction)
 - [History](#history)
 - [Literature](#literature)
-- [Technology](#technology)
 - [Science](#science)
 - [Sociology](#sociology)
+- [Technology](#technology)
 
 ## Biography
 1. :white_check_mark: 李光耀观天下 - 李光耀, 2015
@@ -25,10 +24,21 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Literature
 
-## Computer Science
-### CSS
+## Science
+1. Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin, 2009
+
+## Sociology
+1. 巨婴国 - 武志红, 2016
+
+## Technology
+1. 码农翻身 - 刘欣, 2018
+1. Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel and Blake Masters, 2014
+1. :white_check_mark: 未来世界的幸存者 - 阮一峰, 2017
+1. 腾讯传 - 吴晓波, 2017
+1. 沸腾十五年 - 林军, 2009
+1. 精益创业 - 埃里克·莱斯, 2012
+1. Code Complete: A Practical Handbook of Software Construction, Second Edition, 2004
 1. CSS Secrets: Better Solutions to Everyday Web Design Problems - Lea Verou, 2015
-### Javascript
 1. :white_check_mark: Professional JavaScript for Web Developers - Nicholas C. Zakas, 2012
 1. :white_check_mark: JavaScript Enlightenment: From Library User to JavaScript Developer - Cody Lindley, 2013
 1. Javascript: The Definitive Guide - David Flanagan, 2011
@@ -39,26 +49,4 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. Secrets of Javascript Ninja, 2nd Edition - Bear Bibeault and John Resig, 2016
 1. Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide - Addy Osmani, 2012
 1. JavaScript Patterns: Build Better Applications with Coding and Design Patterns - Stoyan Stefanov, 2010
-### Framework
 1. :white_check_mark: Learning React - Kirupa Chinnathambi, 2016
-1. Learning React: Functional Web Development with React and Redux - Alex Banks and Eve Porcello, 2017
-1. 深入浅出React和Redux - 程墨, 2017
-1. Angular 4: From Theory To Practice: Build the web applications of tomorrow using the new Angular web framework from Google - Asim Hussain, 2017
-1. ng-book: The Complete Guide to Angular 4 - Carlos Taborda and Nathan Murray, 2017
-### SPA
-1. SPA Design and Architecture: Understanding Single Page Web Applications - Emmit Scott, 2015
-2. Single Page Web Applications: JavaScript end-to-end - Michael Mikowski and Josh Powell, 2013
-
-## Technology
-1. Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel and Blake Masters, 2014
-1. :white_check_mark: 未来世界的幸存者 - 阮一峰, 2017
-1. 腾讯传 - 吴晓波, 2017
-1. 沸腾十五年 - 林军, 2009
-1. 精益创业 - 埃里克·莱斯, 2012
-1. Code Complete: A Practical Handbook of Software Construction, Second Edition, 2004
-
-## Science
-1. Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin, 2009
-
-## Sociology
-1. 巨婴国 - 武志红, 2016
