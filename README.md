@@ -13,6 +13,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Biography
 1. :white_check_mark: 李光耀观天下 - 李光耀
+1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
 1. 恶意 - 东野圭吾, 2009
