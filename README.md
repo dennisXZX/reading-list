@@ -23,6 +23,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 ## History
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari
 1. :white_check_mark: 半小时漫画中国史1 - 二混子
+1. :white_check_mark: 半小时漫画中国史2 - 二混子
 
 ## Literature
 1. 冬泳 : 人们从水中仰起面庞承接命运的无声飘落 - 班宇
