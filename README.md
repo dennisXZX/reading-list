@@ -27,6 +27,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Literature
 1. 冬泳 : 人们从水中仰起面庞承接命运的无声飘落 - 班宇
+1. :white_check_mark: Nineteen Eighty-Four: George Orwell
 
 ## Science
 1. :white_check_mark: Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin
