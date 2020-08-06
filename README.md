@@ -19,6 +19,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 恶意 - 东野圭吾, 2009
 1. :white_check_mark: 嫌疑犯X的献身 - 东野圭吾
 1. :white_check_mark: 多情剑客无情剑 - 古龙
+1. 无证之罪 - 紫金陈
     
 ## History
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari
