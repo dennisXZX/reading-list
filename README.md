@@ -21,7 +21,9 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 多情剑客无情剑 - 古龙
 1. :white_check_mark: 无证之罪 - 紫金陈
 1. :white_check_mark: 生吞 - 郑执
-    
+1. The ABC Murders - Agatha Christie
+1. 湖畔 - 东野圭吾
+
 ## History
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari
 1. :white_check_mark: 半小时漫画中国史1 - 二混子
@@ -38,6 +40,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 巨婴国 - 武志红
 
 ## Technology
+1. 重学前端 - 程劭非 (winter)
 1. 码农翻身 - 刘欣
 1. Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel and Blake Masters
 1. :white_check_mark: 未来世界的幸存者 - 阮一峰
