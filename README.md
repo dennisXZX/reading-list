@@ -40,6 +40,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 巨婴国 - 武志红
 
 ## Technology
+1. The Complete Redux Book (2nd edition) - Ilya Gelman and Boris Dinkevich
 1. 重学前端 - 程劭非 (winter)
 1. 码农翻身 - 刘欣
 1. Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel and Blake Masters
