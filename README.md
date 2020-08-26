@@ -21,7 +21,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 多情剑客无情剑 - 古龙
 1. :white_check_mark: 无证之罪 - 紫金陈
 1. :white_check_mark: 生吞 - 郑执
-1. The ABC Murders - Agatha Christie
+1. :white_check_mark: The ABC Murders - Agatha Christie
 1. 湖畔 - 东野圭吾
 
 ## History
