@@ -34,6 +34,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: Nineteen Eighty-Four: George Orwell
 1. 《论语》感悟 - 于丹
 1. 《庄子》心得 - 于丹
+1. 夜航船 - 张岱
 
 ## Science
 1. :white_check_mark: Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin
