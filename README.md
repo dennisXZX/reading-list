@@ -17,9 +17,10 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Fiction
 1. 恶意 - 东野圭吾
+1. 消失的13级台阶 - 高野和明
 1. :white_check_mark: 嫌疑犯X的献身 - 东野圭吾
 1. :white_check_mark: 小李飞刀1: 多情剑客无情剑 - 古龙
-1. 小李飞刀2: 边城浪子 - 古龙
+1. :white_check_mark: 小李飞刀2: 边城浪子 - 古龙
 1. 小李飞刀3: 九月鹰飞 - 古龙
 1. 小李飞刀4: 天涯•明月•刀 - 古龙
 1. 小李飞刀5: 飞刀，又见飞刀 - 古龙
@@ -39,6 +40,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 《论语》感悟 - 于丹
 1. 《庄子》心得 - 于丹
 1. 夜航船 - 张岱
+1. 幸福了吗? - 白岩松
 
 ## Science
 1. :white_check_mark: Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin
