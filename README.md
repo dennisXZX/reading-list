@@ -16,6 +16,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
+1. 湖畔 - 东野圭吾
 1. 恶意 - 东野圭吾
 1. :white_check_mark: 消失的13级台阶 - 高野和明
 1. 人类灭绝 - 高野和明
@@ -28,7 +29,6 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 无证之罪 - 紫金陈
 1. :white_check_mark: 生吞 - 郑执
 1. :white_check_mark: The ABC Murders - Agatha Christie
-1. 湖畔 - 东野圭吾
 
 ## History
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari
