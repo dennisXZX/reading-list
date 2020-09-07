@@ -36,6 +36,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 半小时漫画中国史2 - 二混子
 
 ## Literature
+1. 鲜衣怒马少年时: 唐宋诗人的诗酒江湖 - 少年怒马
 1. 冬泳 : 人们从水中仰起面庞承接命运的无声飘落 - 班宇
 1. :white_check_mark: Nineteen Eighty-Four: George Orwell
 1. 《论语》感悟 - 于丹
