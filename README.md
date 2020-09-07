@@ -17,7 +17,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Fiction
 1. 恶意 - 东野圭吾
-1. 消失的13级台阶 - 高野和明
+1. :white_check_mark: 消失的13级台阶 - 高野和明
+1. 人类灭绝 - 高野和明
 1. :white_check_mark: 嫌疑犯X的献身 - 东野圭吾
 1. :white_check_mark: 小李飞刀1: 多情剑客无情剑 - 古龙
 1. :white_check_mark: 小李飞刀2: 边城浪子 - 古龙
