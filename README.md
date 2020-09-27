@@ -17,6 +17,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Fiction
 1. :white_check_mark: 少年冷血: 四大名捕斗将军 - 温瑞安
+1. :white_check_mark: 四大名捕震关东 - 温瑞安
 1. :white_check_mark: 湖畔 - 东野圭吾
 1. 恶意 - 东野圭吾
 1. :white_check_mark: 消失的13级台阶 - 高野和明
