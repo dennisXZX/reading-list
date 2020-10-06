@@ -16,6 +16,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
+1. 首席女神捕 - 观海之鱼
 1. :white_check_mark: 少年冷血: 四大名捕斗将军 - 温瑞安
 1. :white_check_mark: 四大名捕震关东 - 温瑞安
 1. :white_check_mark: 湖畔 - 东野圭吾
