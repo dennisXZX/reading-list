@@ -16,6 +16,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
+1. 诡计博物馆 - 大山诚一郎
 1. 首席女神捕 - 观海之鱼
 1. :white_check_mark: 少年冷血: 四大名捕斗将军 - 温瑞安
 1. :white_check_mark: 四大名捕震关东 - 温瑞安
@@ -27,8 +28,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 小李飞刀1: 多情剑客无情剑 - 古龙
 1. :white_check_mark: 小李飞刀2: 边城浪子 - 古龙
 1. :white_check_mark: 小李飞刀3: 九月鹰飞 - 古龙
-1. 小李飞刀4: 天涯•明月•刀 - 古龙
-1. 小李飞刀5: 飞刀，又见飞刀 - 古龙
+1. :white_check_mark: 小李飞刀4: 天涯•明月•刀 - 古龙
+1. :white_check_mark: 小李飞刀5: 飞刀，又见飞刀 - 古龙
 1. :white_check_mark: 无证之罪 - 紫金陈
 1. :white_check_mark: 生吞 - 郑执
 1. :white_check_mark: The ABC Murders - Agatha Christie
