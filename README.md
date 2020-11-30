@@ -14,7 +14,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 ## Biography
 1. 腾讯传 - 吴晓波
 1. 硅谷之火 : 个人计算机的诞生与衰落（第3版）- 迈克尔·斯韦因 / 保罗·弗赖伯格
-1. 一往无前: 雷军亲述小米热血10年 - 范海涛
+1. :white_check_mark: 一往无前: 雷军亲述小米热血10年 - 范海涛
 1. :white_check_mark: 李光耀观天下 - 李光耀
 1. :white_check_mark: 看见 - 柴静
 
