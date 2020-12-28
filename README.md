@@ -20,8 +20,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Fiction
 1. :white_check_mark: 陆小凤传奇1：金鹏王朝 - 古龙
-1. 陆小凤传奇2：绣花大盗 - 古龙
-1. 陆小凤传奇3：决战前后 - 古龙
+1. :white_check_mark: 陆小凤传奇2：绣花大盗 - 古龙
+1. :white_check_mark: 陆小凤传奇3：决战前后 - 古龙
 1. 陆小凤传奇4：银钩赌坊 - 古龙
 1. 陆小凤传奇5：幽灵山庄 - 古龙
 1. 陆小凤传奇6：凤舞九天 - 古龙
@@ -46,6 +46,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: The ABC Murders - Agatha Christie
 
 ## History
+1. 哇，历史原来可以这样学1, 2 - 林欣浩
+1. 这个历史挺靠谱: 袁腾飞讲历史（全三册）- 袁腾飞
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari
 1. :white_check_mark: 半小时漫画中国史1 - 二混子
 1. :white_check_mark: 半小时漫画中国史2 - 二混子
