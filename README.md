@@ -12,15 +12,15 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 - [Technology](#technology)
 
 ## Biography
+1. The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company - Robert Iger
 1. 腾讯传 - 吴晓波
-1. 硅谷之火 : 个人计算机的诞生与衰落（第3版）- 迈克尔·斯韦因 / 保罗·弗赖伯格
+1. Fire in the Valley: The Birth and Death of the Personal Computer, Third Edition - Michael Swaine
 1. :white_check_mark: 一往无前: 雷军亲述小米热血10年 - 范海涛
 1. :white_check_mark: 李光耀观天下 - 李光耀
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
-1. 阴阳师 - 梦枕貘
-1. 阴阳师·飞天卷 - 梦枕貘
+1. :white_check_mark: 尸人庄谜案 - [日] 今村昌弘
 1. :white_check_mark: 陆小凤传奇1：金鹏王朝 - 古龙
 1. :white_check_mark: 陆小凤传奇2：绣花大盗 - 古龙
 1. :white_check_mark: 陆小凤传奇3：决战前后 - 古龙
