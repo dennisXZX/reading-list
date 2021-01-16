@@ -66,6 +66,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 幸福了吗? - 白岩松
 
 ## Science
+1. :white_check_mark: 不白吃漫画食物简史 - 我是不白吃
 1. :white_check_mark: Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin
 1. 巨婴国 - 武志红
 
