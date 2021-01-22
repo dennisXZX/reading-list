@@ -49,11 +49,13 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: The ABC Murders - Agatha Christie
 
 ## History
-1. 哇，历史原来可以这样学1, 2 - 林欣浩
+1. :white_check_mark: 赛雷三分钟漫画中国史 - 赛雷
+1. 哇，历史原来可以这样学1 - 林欣浩
+1. 哇，历史原来可以这样学2 - 林欣浩
 1. 这个历史挺靠谱: 袁腾飞讲历史（全三册）- 袁腾飞
 1. Homo Deus：A Brief History of Tomorrow - Yuval Noah Harari
-1. :white_check_mark: 半小时漫画中国史1 - 二混子
-1. :white_check_mark: 半小时漫画中国史2 - 二混子
+1. :white_check_mark: 半小时漫画中国史1 - 陈磊
+1. :white_check_mark: 半小时漫画中国史2 - 陈磊
 
 ## Literature
 1. :white_check_mark: 向上生长 - 九边
@@ -66,6 +68,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 幸福了吗? - 白岩松
 
 ## Science
+1. :white_check_mark: 半小时漫画经济学 - 陈磊
 1. :white_check_mark: 不白吃漫画食物简史 - 我是不白吃
 1. :white_check_mark: Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin
 1. 巨婴国 - 武志红
