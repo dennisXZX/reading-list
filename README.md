@@ -33,6 +33,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 诡计博物馆 - 大山诚一郎
 1. :white_check_mark: 少年冷血: 四大名捕斗将军 - 温瑞安
 1. :white_check_mark: 四大名捕震关东 - 温瑞安
+1. :white_check_mark: 爱上她的和尚 - 温瑞安
+1. :white_check_mark: 爱上和尚的她 - 温瑞安
 1. :white_check_mark: 湖畔 - 东野圭吾
 1. 恶意 - 东野圭吾
 1. :white_check_mark: 消失的13级台阶 - 高野和明
