@@ -35,7 +35,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 四大名捕震关东 - 温瑞安
 1. :white_check_mark: 爱上她的和尚 - 温瑞安
 1. :white_check_mark: 爱上和尚的她 - 温瑞安
-1. 傲慢与偏剑 - 温瑞安
+1. :white_check_mark: 傲慢与偏剑 - 温瑞安
 1. 白衣方振眉 - 温瑞安
 1. :white_check_mark: 湖畔 - 东野圭吾
 1. 恶意 - 东野圭吾
@@ -72,6 +72,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 幸福了吗? - 白岩松
 
 ## Science
+1. :white_check_mark: 怪奇事物所 - 怪奇事物所所长
 1. :white_check_mark: 半小时漫画经济学 - 陈磊
 1. :white_check_mark: 不白吃漫画食物简史 - 我是不白吃
 1. :white_check_mark: Yes! 50 Scientifically Proven Ways to Be Persuasive - Noah J. Goldstein Ph.D. and Steve J. Martin
