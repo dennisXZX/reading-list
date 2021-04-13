@@ -36,7 +36,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 爱上她的和尚 - 温瑞安
 1. :white_check_mark: 爱上和尚的她 - 温瑞安
 1. :white_check_mark: 傲慢与偏剑 - 温瑞安
-1. 白衣方振眉 - 温瑞安
+1. :white_check_mark: 白衣方振眉 - 温瑞安
+1. 布衣神相 - 温瑞安
 1. :white_check_mark: 湖畔 - 东野圭吾
 1. 恶意 - 东野圭吾
 1. :white_check_mark: 消失的13级台阶 - 高野和明
