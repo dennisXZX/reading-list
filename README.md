@@ -20,7 +20,8 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
-1. 有匪 - Priest
+1. 万族之劫 - 老鹰吃小鸡
+1. :white_check_mark: 有匪 - Priest
 1. :white_check_mark: 尸人庄谜案 - [日] 今村昌弘
 1. :white_check_mark: 陆小凤传奇1：金鹏王朝 - 古龙
 1. :white_check_mark: 陆小凤传奇2：绣花大盗 - 古龙
