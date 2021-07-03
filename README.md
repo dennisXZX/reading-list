@@ -12,7 +12,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 - [Technology](#technology)
 
 ## Biography
-1. 一生的旅程 (The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company) - Robert Iger
+1. :white_check_mark: 一生的旅程 (The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company) - Robert Iger
 1. 腾讯传 - 吴晓波
 1. 硅谷之火 (Fire in the Valley: The Birth and Death of the Personal Computer, Third Edition) - Michael Swaine
 1. :white_check_mark: 一往无前: 雷军亲述小米热血10年 - 范海涛
