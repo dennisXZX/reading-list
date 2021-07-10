@@ -13,9 +13,6 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 
 ## Biography
 1. :white_check_mark: 一生的旅程 (The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company) - Robert Iger
-1. 腾讯传 - 吴晓波
-1. 硅谷之火 (Fire in the Valley: The Birth and Death of the Personal Computer, Third Edition) - Michael Swaine
-1. :white_check_mark: 一往无前: 雷军亲述小米热血10年 - 范海涛
 1. :white_check_mark: 李光耀观天下 - 李光耀
 1. :white_check_mark: 看见 - 柴静
 
@@ -29,8 +26,6 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 陆小凤传奇5：幽灵山庄 - 古龙
 1. :white_check_mark: 陆小凤传奇6：凤舞九天 - 古龙
 1. :white_check_mark: 陆小凤传奇7：剑神一笑 - 古龙
-1. 凛冬之棺 - 孙沁文
-1. 绝对不在场证明 - [日] 大山诚一郎
 1. :white_check_mark: 诡计博物馆 - [日] 大山诚一郎
 1. :white_check_mark: 少年冷血: 四大名捕斗将军 - 温瑞安
 1. :white_check_mark: 四大名捕震关东 - 温瑞安
@@ -42,7 +37,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. :white_check_mark: 湖畔 - [日] 东野圭吾
 1. 恶意 - [日] 东野圭吾
 1. :white_check_mark: 消失的13级台阶 - [日] 高野和明
-1. 人类灭绝 - 高野和明
+1. 人类灭绝 - [日] 高野和明
 1. :white_check_mark: 嫌疑犯X的献身 - [日] 东野圭吾
 1. :white_check_mark: 小李飞刀1: 多情剑客无情剑 - 古龙
 1. :white_check_mark: 小李飞刀2: 边城浪子 - 古龙
@@ -81,23 +76,11 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 巨婴国 - 武志红
 
 ## Technology
-1. The Complete Redux Book (2nd edition) - Ilya Gelman and Boris Dinkevich
-1. 重学前端 - 程劭非 (winter)
-1. 码农翻身 - 刘欣
+1. 浪潮之巅 (第四版) - 吴军
+1. 腾讯传 - 吴晓波
+1. 硅谷之火 (Fire in the Valley: The Birth and Death of the Personal Computer, Third Edition) - Michael Swaine
+1. :white_check_mark: 一往无前: 雷军亲述小米热血10年 - 范海涛
 1. 从0到1 : 开启商业与未来的秘密 (Zero to One: Notes on Startups, or How to Build the Future) - 彼得·蒂尔 / 布莱克·马斯特斯
 1. :white_check_mark: 未来世界的幸存者 - 阮一峰
 1. 沸腾十五年 - 林军
 1. 精益创业 - 埃里克·莱斯
-1. Code Complete: A Practical Handbook of Software Construction, Second Edition
-1. CSS Secrets: Better Solutions to Everyday Web Design Problems - Lea Verou
-1. :white_check_mark: Professional JavaScript for Web Developers - Nicholas C. Zakas
-1. :white_check_mark: JavaScript Enlightenment: From Library User to JavaScript Developer - Cody Lindley
-1. :white_check_mark: Javascript: The Definitive Guide - David Flanagan
-1. :white_check_mark: JavaScript: The Good Parts - Douglas Crockford
-1. :white_check_mark: You Don't Know JS: Up & Going - Kyle Simpson
-1. :white_check_mark: You Don't Know JS: Scope & Closures - Kyle Simpson
-1. :white_check_mark: You Don't Know JS: this & Object Prototypes - Kyle Simpson
-1. :white_check_mark: Secrets of Javascript Ninja, 2nd Edition - Bear Bibeault and John Resig
-1. :white_check_mark: Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide - Addy Osmani
-1. :white_check_mark: JavaScript Patterns: Build Better Applications with Coding and Design Patterns - Stoyan Stefanov
-1. :white_check_mark: Learning React - Kirupa Chinnathambi
