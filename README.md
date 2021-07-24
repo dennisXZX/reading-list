@@ -69,6 +69,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 幸福了吗? - 白岩松
 
 ## Science
+1. 十年轮回 - 沈联涛
 1. :white_check_mark: 怪奇事物所 - 怪奇事物所所长
 1. :white_check_mark: 半小时漫画经济学 - 陈磊
 1. :white_check_mark: 不白吃漫画食物简史 - 我是不白吃
@@ -76,7 +77,7 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 1. 巨婴国 - 武志红
 
 ## Technology
-1. 浪潮之巅 (第四版) - 吴军
+1. :white_check_mark: 浪潮之巅 (第四版) - 吴军
 1. 腾讯传 - 吴晓波
 1. 硅谷之火 (Fire in the Valley: The Birth and Death of the Personal Computer, Third Edition) - Michael Swaine
 1. :white_check_mark: 一往无前: 雷军亲述小米热血10年 - 范海涛
