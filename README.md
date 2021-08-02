@@ -12,22 +12,23 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 - [Technology](#technology)
 
 ## Biography
+1. :white_check_mark: 九败一胜: 美团创始人王兴创业十年 - 李志刚
 1. :white_check_mark: 一生的旅程 (The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company) - Robert Iger
 1. :white_check_mark: 李光耀观天下 - 李光耀
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
-1. :white_check_mark: 逆时侦查组 : 凶手何时来访 - 张小猫
-2. :white_check_mark: 逆时侦查组2 : 营救嫌疑人 - 张小猫
+1. :white_check_mark: 逆时侦查组: 凶手何时来访 - 张小猫
+2. :white_check_mark: 逆时侦查组2: 营救嫌疑人 - 张小猫
 3. :white_check_mark: 有匪 - Priest
 4. :white_check_mark: 尸人庄谜案 - [日] 今村昌弘
-5. :white_check_mark: 陆小凤传奇1：金鹏王朝 - 古龙
-6. :white_check_mark: 陆小凤传奇2：绣花大盗 - 古龙
-7. :white_check_mark: 陆小凤传奇3：决战前后 - 古龙
-8. :white_check_mark: 陆小凤传奇4：银钩赌坊 - 古龙
-9. :white_check_mark: 陆小凤传奇5：幽灵山庄 - 古龙
-10. :white_check_mark: 陆小凤传奇6：凤舞九天 - 古龙
-11. :white_check_mark: 陆小凤传奇7：剑神一笑 - 古龙
+5. :white_check_mark: 陆小凤传奇1: 金鹏王朝 - 古龙
+6. :white_check_mark: 陆小凤传奇2: 绣花大盗 - 古龙
+7. :white_check_mark: 陆小凤传奇3: 决战前后 - 古龙
+8. :white_check_mark: 陆小凤传奇4: 银钩赌坊 - 古龙
+9. :white_check_mark: 陆小凤传奇5: 幽灵山庄 - 古龙
+10. :white_check_mark: 陆小凤传奇6: 凤舞九天 - 古龙
+11. :white_check_mark: 陆小凤传奇7: 剑神一笑 - 古龙
 12. :white_check_mark: 诡计博物馆 - [日] 大山诚一郎
 13. :white_check_mark: 少年冷血: 四大名捕斗将军 - 温瑞安
 14. :white_check_mark: 四大名捕震关东 - 温瑞安
