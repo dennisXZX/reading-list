@@ -12,15 +12,17 @@ Inspired by [Google Interview University](https://github.com/jwasham/google-inte
 - [Technology](#technology)
 
 ## Biography
+1. :white_check_mark: 把自己当回事儿 - 杨天真
 1. :white_check_mark: 九败一胜: 美团创始人王兴创业十年 - 李志刚
 1. :white_check_mark: 一生的旅程 (The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company) - Robert Iger
 1. :white_check_mark: 李光耀观天下 - 李光耀
 1. :white_check_mark: 看见 - 柴静
 
 ## Fiction
+1. 白夜行 - [日] 东野圭吾
 1. :white_check_mark: 逆时侦查组: 凶手何时来访 - 张小猫
 2. :white_check_mark: 逆时侦查组2: 营救嫌疑人 - 张小猫
-3. 13 67 - 陳浩基
+3. :white_check_mark: 13 67 - 陳浩基
 4. :white_check_mark: 绝叫 - [日] 叶真中显
 5. :white_check_mark: 有匪 - Priest
 6. :white_check_mark: 尸人庄谜案 - [日] 今村昌弘
